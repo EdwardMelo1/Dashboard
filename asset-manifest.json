@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%20Dashboard/static/css/main.69f00fba.css",
+    "main.js": "/%20Dashboard/static/js/main.07254544.js",
+    "static/media/LogoAngela.svg": "/%20Dashboard/static/media/LogoAngela.65e7f1e7a2511b26126fafd3b41ab342.svg",
+    "index.html": "/%20Dashboard/index.html",
+    "main.69f00fba.css.map": "/%20Dashboard/static/css/main.69f00fba.css.map",
+    "main.07254544.js.map": "/%20Dashboard/static/js/main.07254544.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f00fba.css",
+    "static/js/main.07254544.js"
+  ]
+}
